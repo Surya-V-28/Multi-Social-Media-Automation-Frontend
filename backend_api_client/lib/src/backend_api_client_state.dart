@@ -1,0 +1,3 @@
+class BackendApiClientState {
+  String? accessToken;
+}

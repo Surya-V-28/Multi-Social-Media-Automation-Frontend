@@ -1,0 +1,38 @@
+name: business_logic
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+publish_to: 'none'
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.0
+
+# Add regular dependencies here.
+dependencies:
+  fast_immutable_collections: ^10.2.4
+  http: ^1.2.1
+  injectable: ^2.4.4
+  get_it: ^7.2.0
+  firebase_core: ^3.2.0
+  dio: ^5.7.0
+  shared_preferences: ^2.3.2
+  dart_scope_functions: ^1.0.0
+  # path: ^1.8.0
+  cross_file: ^0.3.4+2
+  dart_jsonwebtoken: ^2.14.1
+  collection: ^1.19.0
+  backend_api_client:
+    path: "../backend_api_client"
+  facebook_api_client:
+    path: "../facebook_api_client"
+  instagram_api_client:
+    path: "../instagram_api_client"
+  common:
+    path: "../common"
+  uuid: ^4.5.1
+
+dev_dependencies:
+  build_runner: ^2.4.12
+  injectable_generator: ^2.6.2
+  lints: ^3.0.0
+  test: ^1.24.0

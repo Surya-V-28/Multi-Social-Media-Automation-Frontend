@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509839740929",
+    "project_id": "post-scheduler-97f47",
+    "storage_bucket": "post-scheduler-97f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509839740929:android:2f6280f2a871589afcb000",
+        "android_client_info": {
+          "package_name": "com.example.post_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDubusEIUuQzTGfdng6J64_rVoE8XC8P28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
